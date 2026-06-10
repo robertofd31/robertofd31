@@ -1,7 +1,7 @@
 # Hi, I'm Roberto Fajardo 👋 
 ### Statistician & Data/ML Engineer | Bridging Data & Infrastructure
 
-I am a **Statistician** by training and a **Data/ML Engineer** by practice. My career is defined by a hybrid approach: I combine the analytical rigor of traditional finance with the technical agility required to build modern, scalable cloud systems. 
+I am a *Statistician* by training and a *Data & AI Engineer* by practice. My career is defined by a hybrid approach: I combine the analytical rigor of traditional finance with the technical agility required to deploy scalable cloud architectures and production-grade AI.
 
 ---
 
